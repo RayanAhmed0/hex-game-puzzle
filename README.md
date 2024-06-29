@@ -55,6 +55,11 @@
  - 'npm i' for installing the modules
  - 'npm start' for starting the project
 ```
+## Future Improvements
+```sh
+ - Developing a backend that is responsible for the users authentication and leaderboard and else.
+ - Deploying the project 
+```
 
 ## Author
 👤 **Rayan Ahmed** 
