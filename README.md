@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center">Welcome to Color World Puzzle 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+### ✨ [Live Demo] 
+## Home page  
 
-### `npm start`
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/4e6236cd-fe26-4609-96f2-1953695e8804" width=75% height=75%>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Instructions 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/8541dc18-1cfe-445a-9728-8053dcecab8f" width=75% height=75%>
+</p>
 
-### `npm test`
+## Gameplay 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/06f21390-74b2-4a85-b55b-5151ab0c1429" width=75% height=75%>
+</p>
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/05646775-ee7d-4c5a-8673-9070f60f4084" width=75% height=75%>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Game lost (if wrong answers = 3)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/297ff8ca-62a3-4a52-846d-1f16cdedac0c" width=75% height=75%>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Game Leaderboard
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="center">
+  <img src="https://github.com/RayanAhmed0/hex-game-puzzle/assets/66013192/28bb4b30-fb9c-4d13-b1b4-74ce5373b173" width=75% height=75%>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</p>
 
-### Code Splitting
+## Installation and usage
+```sh
+ - 'npm i' for installing the modules
+ - 'npm start' for starting the project
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+👤 **Rayan Ahmed** 
+## Show your support
+Give a ⭐️ if this project helped you!
+***
